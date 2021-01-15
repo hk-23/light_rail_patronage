@@ -29,7 +29,7 @@ $ pip install -r requirements.txt
 ```sh
 $ jupyter notebook
 ```
-Once these run withour any errors then a browser will pop up with all the files in the repository. Click the "light_rail_forecast.ipnb" file to view and run the file.
+Once these run withour any errors then a browser will pop up with all the files in the repository. Click the "light_rail_forecast.ipynb" file to view and run the file.
 
 # Activity 2
 
